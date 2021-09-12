@@ -3,7 +3,9 @@ En este repositorio se encontrará el código desarrollado para dar solución al
 
 # Antes de iniciar el juego 
 Es necesario ejecutars las iguiente lineas en la terminal de python:<br/><br/>
-pip install openpyxl
+pip install openpyxl<br/><br/>
+pip install numpy<br/><br/>
+pip install pandas<br/><br/>
 
 # Condiciones de funcionamiento
 El juego de preguntas y respuestas funcionará en lenguaje Python 3.8.<br/><br/>
