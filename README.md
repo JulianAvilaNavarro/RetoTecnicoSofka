@@ -12,3 +12,4 @@ Desde la consola deben digitarse las opciones que indique el juego. Es necesario
 No deben abrirse las bases de datos que estan en archivos .xlsx mientras se ejecuta el juego.<br/><br/>
 El juego funcionará iterativamente permitiendo ingresar las preguntas que quiera segun la categoria que se asigne.<br/><br/>
 Los historicos de juego seran guardados en el archivo jugadores.xlsx.<br/><br/>
+
